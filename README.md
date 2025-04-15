@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yggorcarva/yggorcarva/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
