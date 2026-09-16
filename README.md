@@ -2,7 +2,15 @@
 
 ###
 
-<h4 align="left">- Estudante de Análise e Desenvolvimento de Sistemas no IESB;<br><br>- Desenvolvedor Front-end;<br><br>- Atualmente estudo Banco de Dados, SQL (Autodidata), onde futuramente pretendo atuar profissionalmente;<br><br>- Domínio em língua espanhola (escrita e conversação);<br><br>- Tenho por hobby os esportes, onde gosto de praticar corrida de rua, MTB em trilhas e musculação.</h4>
+<h4 align="left">Atuo na Centrosoft, em um período marcado por intenso aprendizado, dedicação e crescimento técnico. Em 2026, concluirei minha graduação em Análise e Desenvolvimento de Sistemas, fortalecendo ainda mais minha formação na área de tecnologia e consolidando minha trajetória profissional.
+
+No meu dia a dia, desempenho atividades de suporte técnico com foco em infraestrutura, consultas e ajustes em banco de dados, além de intervenções diretamente no software ERP CIGAM. Minha atuação envolve a resolução de inconsistências e demandas nos principais módulos do sistema.
+
+Ofereço suporte e aprimoro soluções em ferramentas analíticas como BI e CRM, além de funcionalidades especializadas.
+
+Paralelamente, realizo estudos autodidatas com foco em desenvolvimento backend utilizando Java e Spring Boot, aprofundando conhecimentos na construção de APIs e boas práticas de desenvolvimento. Busco oportunidade como Desenvolvedor Backend Java Júnior, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes e orientadas a dados.
+ 
+Com determinação, foco e evolução contínua, sigo construindo uma carreira sólida, sempre comprometido com a qualidade, eficiência e entrega de valor aos clientes e à organização.<br><br>- Domínio em língua espanhola (escrita e conversação);<br><br>- Tenho por hobby os esportes, onde gosto de praticar corrida de rua, MTB em trilhas e musculação.</h4>
 
 ###
 
