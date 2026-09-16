@@ -53,7 +53,7 @@ Com determinação, foco e evolução contínua, sigo construindo uma carreira s
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yggor-carvalho-919269357/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  />
+    
   </a>
 </div>
 
