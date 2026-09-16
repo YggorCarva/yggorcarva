@@ -65,6 +65,7 @@ Com determinação, foco e evolução contínua, sigo construindo uma carreira s
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yggorcarva/count.svg?"  />
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="logotipo do LinkedIn" />
 </div>
 
 ###
